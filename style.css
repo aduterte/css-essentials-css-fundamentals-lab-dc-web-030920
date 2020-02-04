@@ -30,6 +30,9 @@ a {
   text-align: center;
 }
 
+#details {
+  margin: auto;
+}
 #details div {
   margin: auto;
   float: left;
