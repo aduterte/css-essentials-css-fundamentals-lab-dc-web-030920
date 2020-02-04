@@ -25,6 +25,7 @@ a {
 }
 
 #featured-property p {
+  margin: auto;
   width: 800px;
   text-align: center;
 }
