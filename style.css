@@ -30,11 +30,9 @@ a {
   text-align: center;
 }
 
-#details {
-  width: 80%;
-}
+
 #details div {
   margin: auto;
   float: left;
-  text-align: center;
+  width: 80%;
 }
