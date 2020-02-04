@@ -33,4 +33,5 @@ a {
 #details div {
   margin: auto;
   float: left;
+  text-align: center;
 }
