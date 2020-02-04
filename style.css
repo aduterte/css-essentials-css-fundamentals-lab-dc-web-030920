@@ -31,7 +31,7 @@ a {
 }
 
 #details {
-  margin: auto;
+  width: 80%;
 }
 #details div {
   margin: auto;
