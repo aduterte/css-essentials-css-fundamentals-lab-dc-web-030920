@@ -31,5 +31,6 @@ a {
 }
 
 #details div {
+  margin: auto;
   float: left;
 }
