@@ -31,7 +31,7 @@ a {
 }
 
 #details {
-  
+
   margin: auto;
 }
 
@@ -39,5 +39,6 @@ a {
   width: 25%;
   padding: auto;
   float: left;
+  background: red;
 
 }
