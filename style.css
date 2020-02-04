@@ -31,12 +31,12 @@ a {
 }
 
 #details {
-  width: 90%;
+  
   margin: auto;
 }
 
 #details div {
-
+  width: 25%;
   padding: auto;
   float: left;
 
