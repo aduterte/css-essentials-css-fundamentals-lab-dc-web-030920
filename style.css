@@ -30,6 +30,9 @@ a {
   text-align: center;
 }
 
+#details {
+  width: 1000px;
+}
 
 #details div {
   margin: auto;
